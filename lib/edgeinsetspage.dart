@@ -7,7 +7,7 @@ class EdgeInsetsPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Edge Insets Activity'),
+        title: const Text('Edge Insets Activity\nSevilla'),
         backgroundColor: const Color.fromARGB(255, 253, 173, 199),
       ),
 
